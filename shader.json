@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Electric Bloom",
+    "description": "This shader shows, that gives out electrical shock wave",
     "tags": []
   },
   "renderpass": [
